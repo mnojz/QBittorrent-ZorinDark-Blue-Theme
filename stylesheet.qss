@@ -492,16 +492,16 @@ QAbstractScrollArea {
 /*PROGRESSBAR*/
 QProgressBar {
   text-align: center;
-  background-color: rgba(0, 0, 0, 0);
-  border-radius: 2px;
-  margin-right: 40px;
-  margin-top: 12px;
-  margin-bottom: 12px;
+  background-color: #2d3840;
+  border-radius: 4px;
+  color: transparent;
+  margin: 8px 5px;
 }
 
 QProgressBar::chunk {
-  background-color: #64b6f7;
-  border-radius: 2px;
+  background-color: #bde6fb;
+  border-radius: 3px;
+  margin: 0px;
 }
 
 /*SPINBOXES*/
@@ -513,20 +513,17 @@ QSpinBox {
   padding-top: 6px;
   padding-bottom: 6px;
   min-width: 60px;
-  border-bottom: 1px solid #3a4a54;
 }
 
 QSpinBox:hover {
   background-color: rgba(189, 230, 251, 16);
   border: 1px solid rgba(189, 230, 251, 10);
-  border-bottom: 1px solid #3a4a54;
 }
 
 QSpinBox::focus {
   background-color: rgba(189, 230, 251, 5);
   border: 1px solid rgba(189, 230, 251, 8);
   color: rgba(189, 230, 251, 200);
-  border-bottom: 2px solid #64b6f7;
 }
 
 QSpinBox::up-button {
@@ -598,20 +595,17 @@ QDoubleSpinBox {
   padding-top: 6px;
   padding-bottom: 6px;
   min-width: 70px;
-  border-bottom: 1px solid #3a4a54;
 }
 
 QDoubleSpinBox:hover {
   background-color: rgba(189, 230, 251, 16);
   border: 1px solid rgba(189, 230, 251, 13);
-  border-bottom: 1px solid #3a4a54;
 }
 
 QDoubleSpinBox::focus {
   background-color: rgba(189, 230, 251, 5);
   border: 1px solid rgba(189, 230, 251, 13);
   color: rgba(189, 230, 251, 200);
-  border-bottom: 2px solid #64b6f7;
 }
 
 QDoubleSpinBox::up-button {
@@ -683,20 +677,17 @@ QDateTimeEdit {
   padding-top: 6px;
   padding-bottom: 6px;
   min-width: 100px;
-  border-bottom: 1px solid #3a4a54;
 }
 
 QDateTimeEdit:hover {
   background-color: rgba(189, 230, 251, 16);
   border: 1px solid rgba(189, 230, 251, 13);
-  border-bottom: 1px solid #3a4a54;
 }
 
 QDateTimeEdit::focus {
   background-color: rgba(189, 230, 251, 5);
   border: 1px solid rgba(189, 230, 251, 13);
   color: rgba(189, 230, 251, 200);
-  border-bottom: 2px solid #3a4a54;
 }
 
 QDateTimeEdit::up-button {
@@ -819,7 +810,6 @@ QPlainTextEdit {
   background-color: rgba(189, 230, 251, 16);
   border: 1px solid rgba(189, 230, 251, 5);
   border-radius: 7px;
-  border-bottom: 1px solid #3a4a54;
   padding: 5px;
   selection-color: #bde6fb;
   selection-background-color: #25313a;
@@ -830,16 +820,12 @@ QTextEdit:hover,
 QPlainTextEdit:hover {
   background-color: rgba(189, 230, 251, 20);
   border: 1px solid rgba(189, 230, 251, 10);
-  border-bottom: 1px solid #3a4a54;
 }
 
 QTextEdit:focus,
 QPlainTextEdit:focus {
-  border-bottom: 2px solid #64b6f7;
   background-color: rgba(189, 230, 251, 5);
-  border-top: 1px solid rgba(189, 230, 251, 7);
-  border-left: 1px solid rgba(189, 230, 251, 7);
-  border-right: 1px solid rgba(189, 230, 251, 7);
+  border: 1px solid rgba(189, 230, 251, 7);
 }
 
 QTextEdit:disabled,
@@ -855,7 +841,6 @@ QLineEdit {
   border: 1px solid rgba(189, 230, 251, 5);
   color: #bde6fb;
   border-radius: 5px;
-  border-bottom: 1px solid #3a4a54;
   padding-left: 5px;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -864,15 +849,11 @@ QLineEdit {
 QLineEdit:hover {
   background-color: rgba(189, 230, 251, 20);
   border: 1px solid rgba(189, 230, 251, 10);
-  border-bottom: 1px solid #3a4a54;
 }
 
 QLineEdit:focus {
-  border-bottom: 2px solid #64b6f7;
   background-color: rgba(189, 230, 251, 5);
-  border-top: 1px solid rgba(189, 230, 251, 7);
-  border-left: 1px solid rgba(189, 230, 251, 7);
-  border-right: 1px solid rgba(189, 230, 251, 7);
+  border: 1px solid rgba(189, 230, 251, 7);
 }
 
 QLineEdit:disabled {
