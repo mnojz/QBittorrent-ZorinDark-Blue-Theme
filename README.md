@@ -20,13 +20,13 @@ The goal was simple: make qBittorrent feel native on a Zorin-based desktop witho
 
 ## ✦ Preview
 
-### Main Interface
+### Preview 1
 
-![Main Preview](images/preview-main.png)
+![Main Preview]([images/preview1.png](https://raw.githubusercontent.com/mnojz/QBittorrent-ZorinDark-Blue-Theme/refs/heads/main/screenshots/screenshot.png))
 
-### Detailed View
+### Preview 2
 
-![Detailed Preview](images/preview-details.png)
+![Detailed Preview]([images/preview2.png](https://raw.githubusercontent.com/mnojz/QBittorrent-ZorinDark-Blue-Theme/refs/heads/main/screenshots/screenshot2.png))
 
 ---
 
