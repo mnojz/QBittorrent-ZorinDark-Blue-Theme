@@ -5,7 +5,7 @@ A clean, minimal qBittorrent theme inspired by **Zorin OS Dark Blue**.
 This theme focuses on visual consistency, soft contrast, and a monochrome icon style that blends naturally with modern GNOME setups.
 
 This theme is based on and forked from the original work by 
-![qbittorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
+[qbittorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme)
 Huge credit to the original author for the foundation and structure that made this customization possible.
 ---
 
