@@ -26,7 +26,7 @@ The goal was simple: make qBittorrent feel native on a Zorin-based desktop witho
 
 ### Preview 2
 
-![Preview2](https://raw.githubusercontent.com/mnojz/QBittorrent-ZorinDark-Blue-Theme/refs/heads/main/screenshots/screenshot2.png)
+![Preview2](https://raw.githubusercontent.com/mnojz/QBittorrent-ZorinDark-Blue-Theme/refs/heads/main/screenshots/Screenshot2.png)
 
 ---
 
