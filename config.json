@@ -1,0 +1,19 @@
+{
+  "colors": {
+    "Palette.Window": "#1e2529",
+    "Palette.WindowText": "#bde6fb",
+    "Palette.Base": "#1e2529",
+    "Palette.AlternateBase": "#2c3a41",
+    "Palette.Text": "#bde6fb",
+    "Palette.Button": "#2c3a41",
+    "Palette.ButtonText": "#bde6fb",
+    "Palette.Highlight": "#3a4b53",
+    "Log.Info": "#7fd2f3",
+    "Log.Warning": "#ffd166",
+    "Log.Error": "#ff6b6b",
+    "TransferList.Downloading": "#4ac1ff",
+    "TransferList.Uploading": "#1f90ff",
+    "TransferList.Queued": "#79c0ff",
+    "TransferList.Paused": "#577d91"
+  }
+}
